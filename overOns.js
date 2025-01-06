@@ -1,3 +1,3 @@
 function funcHome() {
-    window.location.href = '../index.html'; 
+    window.location.href = 'index.html'; 
 }
